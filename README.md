@@ -1,5 +1,6 @@
 Objective
  The goal is to analyze global pollution data and develop strategies for pollution reduction and converting pollutants into energy. The dataset will be used for both data preprocessing and building regression models to predict energy recovery from pollution levels.
+ 
 Phase 1: Data Collection and Exploratory Data Analysis (EDA)
 Step 1 - Data Import and Preprocessing
 Datasets
